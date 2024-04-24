@@ -19,7 +19,7 @@
         <anypoint.username>Anirudh4142</anypoint.username>
         <anypoint.password>Anirudh@123</anypoint.password>
         <anypoint.env>SANDBOX</anypoint.env>
-        <anypoint.target.server>cloudhub-1-us-west1.anypoint.mulesoft.com</anypoint.target.server>
+        <anypoint.target.server>https://ci-cd-poc.cloudhub.io</anypoint.target.server>
     </properties>
 
     <build>
